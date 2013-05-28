@@ -8,7 +8,7 @@ var NAVTREE =
       [ "LED Indicator", "_u_s_a_g_e.html#LED", null ],
       [ "USB frame", "_u_s_a_g_e.html#USB", null ]
     ] ],
-    [ "cleon_connector", "md__r_e_a_d_m_e.html", null ],
+    [ "cleon connector", "md__r_e_a_d_m_e.html", null ],
     [ "Packages", null, [
       [ "Packages", "namespaces.html", "namespaces" ]
     ] ],
